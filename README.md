@@ -1,5 +1,5 @@
 <h1 align="center">Swapnil Narsale</h1>
-<p align="center"><strong>Data Analytics · Business Intelligence · Business Analysis · Automation</strong></p>
+<p align="center"><strong>Data Analyst · Data Scientist · Business Intelligence Analyst<br>AI Analytics Specialist · AI Automation Specialist</strong></p>
 <p align="center">Turning complex data into clear insights, reliable reporting, and more efficient operations.</p>
 <p align="center">
 <a href="https://swapnil-narsale.github.io/">Portfolio</a> &nbsp;·&nbsp;
@@ -95,6 +95,6 @@ Professional project descriptions are available on my portfolio. Public Tableau 
 
 ### Let’s connect
 
-Interested in opportunities in **Data Analytics, Business Intelligence, and Business Analysis**.
+Interested in opportunities in **Data Analytics, Data Science, Business Intelligence, Business Analysis, AI Analytics, and AI Automation**.
 
 **Tempe / Phoenix, Arizona** · [LinkedIn](https://www.linkedin.com/in/swapnil-narsale/) · [Email](mailto:swapnilnarsale45@gmail.com) · [Portfolio](https://swapnil-narsale.github.io/)
