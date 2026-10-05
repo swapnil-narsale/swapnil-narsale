@@ -89,7 +89,10 @@ Professional project descriptions are available on my portfolio. Public Tableau 
 | **Master of Science · Information Systems** | Pace University · 2016–2018 | **4.0** |
 | **Bachelor of Engineering · Computer Engineering** | University of Pune · 2008–2012 | — |
 
-**Additional training:** IPEDS Keyholder Essentials · Association for Institutional Research
+## Certifications & training
+
+- **Stanford Healthcare Introduction** — Certification completed.
+- **IPEDS Keyholder Essentials** — Association for Institutional Research.
 
 ---
 
